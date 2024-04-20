@@ -1,6 +1,6 @@
 <h1>Hi, I'm Patrick! <br/><a href="https://github.com/Patrck23">Programmer</a>, <a href="https://github.com/Patrck23/">Data Scientist</a>, <a href="https://github.com/Patrck23/">Data Analyst</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development and Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -23,8 +23,8 @@
 [<img align="left" alt="Patrck23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Patrck23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/ayebazibwePatr2
+[linkedin]: https://www.linkedin.com/in/ayebazibwe-patrick-86037a1a7
 
 <!--
 **Patrick23/Patrck23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
