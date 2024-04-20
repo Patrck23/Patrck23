@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/Patrck23">Programmer</a>, <a href="https://github.com/Patrck23/">Data Scientist</a>,
+<h1>Hi, I'm Patrick! <br/><a href="https://github.com/Patrck23">Programmer</a>, <a href="https://github.com/Patrck23/">Data Scientist</a>, <a href="https://github.com/Patrck23/">Data Analyst</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
